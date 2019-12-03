@@ -1,6 +1,6 @@
 
  //document
-var members = data.results[0].members;
+function house(members){
 var rep= false;
 var dem= false;
 var ind= false;
@@ -171,3 +171,4 @@ function table(){
   }
 }
 table();
+}
