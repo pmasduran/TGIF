@@ -18,6 +18,10 @@ footer{
 }
 .flex{
     display:flex;
+    justify-content: space-between;
+}
+.width{
+    width: 50%;
 }
 
 #loader{
